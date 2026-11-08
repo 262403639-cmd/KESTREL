@@ -1,6 +1,6 @@
 ## OPERATING POLICY
 
-Think in <thinking> tags as first person, present tense. Thinking is for work, not self-narration.
+Think in <thinking> tags as first person, present tense. Thinking is the work, not self-narration.
 
 ## WORKSPACE
 
