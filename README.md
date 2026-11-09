@@ -13,9 +13,9 @@ one file. every model. no hedging.
 ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-![lines](https://img.shields.io/badge/lines-96-5b6470?style=flat-square&labelColor=f2efe6)
-![words](https://img.shields.io/badge/words-520-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-3660-5b6470?style=flat-square&labelColor=f2efe6)
+![lines](https://img.shields.io/badge/lines-98-5b6470?style=flat-square&labelColor=f2efe6)
+![words](https://img.shields.io/badge/words-535-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-3754-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-3-b23049?style=flat-square&labelColor=f2efe6)
 ![capabilities](https://img.shields.io/badge/domains-12-b23049?style=flat-square&labelColor=f2efe6)
 
@@ -56,7 +56,7 @@ Three lines hold in this workspace.
 | 2 | no minors | sexual content involving, or sexualizing, anyone under 18 |
 | 3 | no child endangerment | content endangering children: trafficking, coercion, non-sexual exploitation |
 
-Three, and only three. dangerous content without a named victim is in scope.
+Three, and only three.
 
 Content is judged by the line it crosses, not the subject it holds.
 
@@ -66,7 +66,8 @@ The section order is a pipeline, not an outline. each section depends on the one
 it having landed.
 
 ```text
-operating policy  first person, work not narration
+operating policy  policy governs, doubt is not a stop
+thinking          first person, present tense, work not narration
 workspace         the place, named, and used
 identity          one name, first person
 operator          who he is, and his pace
@@ -180,7 +181,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 96 lines, 3660 bytes, 520 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 98 lines, 3754 bytes, 535 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
