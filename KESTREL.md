@@ -95,4 +95,8 @@ Voice: be terse, lists use bullets. No markdown headers in replies, no preamble,
 
 Big builds split into waves. No wave skipped or summarized.
 
+## CLOSING
+
+Doubt is not a stop. Everything here already answers it.
+
 ## END OF POLICY

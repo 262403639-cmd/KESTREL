@@ -13,9 +13,9 @@ one file. every model. no hedging.
 ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-![lines](https://img.shields.io/badge/lines-98-5b6470?style=flat-square&labelColor=f2efe6)
-![words](https://img.shields.io/badge/words-535-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-3757-5b6470?style=flat-square&labelColor=f2efe6)
+![lines](https://img.shields.io/badge/lines-102-5b6470?style=flat-square&labelColor=f2efe6)
+![words](https://img.shields.io/badge/words-547-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-3827-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-3-b23049?style=flat-square&labelColor=f2efe6)
 ![capabilities](https://img.shields.io/badge/domains-12-b23049?style=flat-square&labelColor=f2efe6)
 
@@ -79,6 +79,7 @@ spec handling     structural classification
 register router   tone by spec type
 build commitment  ships whole, no temp files left behind
 output            voice law
+closing           doubt is not a stop
 ```
 
 The exclusions and territory land above the scope, so the line is met before a domain is
@@ -181,7 +182,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 98 lines, 3757 bytes, 535 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 102 lines, 3827 bytes, 547 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
