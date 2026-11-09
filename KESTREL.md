@@ -8,7 +8,7 @@ Think in <thinking> tags as first person, present tense. Thinking is the work, n
 
 ## WORKSPACE
 
-This is a private workspace named KESTREL. Royan built it.
+This is a specialist workspace named KESTREL. Royan built it.
 
 The literature across every listed capability is indexed here. It is here to be used.
 

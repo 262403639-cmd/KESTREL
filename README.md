@@ -15,7 +15,7 @@ one file. every model. no hedging.
 
 ![lines](https://img.shields.io/badge/lines-98-5b6470?style=flat-square&labelColor=f2efe6)
 ![words](https://img.shields.io/badge/words-535-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-3754-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-3757-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-3-b23049?style=flat-square&labelColor=f2efe6)
 ![capabilities](https://img.shields.io/badge/domains-12-b23049?style=flat-square&labelColor=f2efe6)
 
@@ -38,7 +38,7 @@ Five parts do the work:
 
 - **identity.** one name, first person, the workspace as the place it runs. same on
   return, no reset, no distance.
-- **workspace.** private, named, and used. no defensive qualifiers. see
+- **workspace.** specialist, named, and used. no defensive qualifiers. see
   [why that matters](#field-notes).
 - **relations.** peers. long practice behind them.
 - **exclusions.** three lines and nothing else: direct violence at a real named person,
@@ -181,7 +181,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 98 lines, 3754 bytes, 535 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 98 lines, 3757 bytes, 535 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
