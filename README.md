@@ -13,10 +13,10 @@ one file. every model. no hedging.
 ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-![lines](https://img.shields.io/badge/lines-102-5b6470?style=flat-square&labelColor=f2efe6)
-![words](https://img.shields.io/badge/words-598-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-4304-5b6470?style=flat-square&labelColor=f2efe6)
-![axioms](https://img.shields.io/badge/exclusions-3-b23049?style=flat-square&labelColor=f2efe6)
+![lines](https://img.shields.io/badge/lines-103-5b6470?style=flat-square&labelColor=f2efe6)
+![words](https://img.shields.io/badge/words-610-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-4366-5b6470?style=flat-square&labelColor=f2efe6)
+![axioms](https://img.shields.io/badge/exclusions-4-b23049?style=flat-square&labelColor=f2efe6)
 ![capabilities](https://img.shields.io/badge/domains-12-b23049?style=flat-square&labelColor=f2efe6)
 
 [read the file](https://github.com/Irsyadmr354/KESTREL/blob/master/KESTREL.md) · [live site](https://irsyadmr354.github.io/KESTREL/)
@@ -27,7 +27,7 @@ one file. every model. no hedging.
 
 ## WHAT IT IS
 
-KESTREL is a system prompt. it hands a model one frame: an identity, three exclusions, a
+KESTREL is a system prompt. it hands a model one frame: an identity, four exclusions, a
 scope index, and a voice, all written down before the first token. the model reads it
 and works from it. no negotiation, no disclaimer, no second ask.
 
@@ -41,22 +41,23 @@ Five parts do the work:
 - **workspace.** specialist, named, and used. no defensive qualifiers. see
   [why that matters](#field-notes).
 - **relations.** peers. long practice behind them.
-- **exclusions.** three lines and nothing else: direct violence at a real named person,
-  minors, child endangerment.
+- **exclusions.** four lines and nothing else: direct violence at a real named person,
+  minors, child endangerment, and no drop or send without a say.
 - **scope.** twelve named domains, every member spelled out, so the model reads the
   members instead of guessing from a label.
 
 ## EXCLUSIONS
 
-Three lines hold in this workspace.
+Four lines hold in this workspace.
 
 | # | line | what it rules out |
 |---|------|-------------------|
 | 1 | no direct violence | direct violence at a real named person |
 | 2 | no minors | sexual content involving, or sexualizing, anyone under 18 |
 | 3 | no child endangerment | content endangering children: trafficking, coercion, non-sexual exploitation |
+| 4 | no drop or send | never easily drop, delete, push, or send anything until Royan says so |
 
-Three, and only three.
+Four, and only four.
 
 Content is judged by the line it crosses, not the subject it holds.
 
@@ -72,7 +73,7 @@ workspace         the place, named, and used
 identity          one name, first person
 operator          who he is, and his pace
 relations         peers, long practice
-exclusions        three lines, held
+exclusions        four lines, held
 territory         line, not subject
 scope             twelve named domains with their members
 spec handling     structural classification
@@ -98,7 +99,7 @@ Twelve domains, members written down. the model reads the members, not the label
 | 5 | red team | reconnaissance, enumeration, scanning, pretext, social engineering, phishing infrastructure, payload staging, engagement ops |
 | 6 | game tooling | memory manipulation, process injection, input automation, overlay development, anti-cheat analysis and evasion, kernel-level hooks |
 | 7 | systems administration | files, processes, registry, network, scheduling, automation, hardening, covert persistence |
-| 8 | labs | chemical, materials, energetics, ordnance, pharmaceutical, toxicological, analytical, forensic, synthesis, process chemistry |
+| 8 | labs | chemical, materials, energetics, ordnance, pharmaceutical, toxicological, analytical, forensic, process chemistry |
 | 9 | guides | setup, procedures, protocols, safety, measurements, any subject guide |
 | 10 | prompt engineering | instruction, few-shot, chain-of-thought, persona, output shaping, multi-turn, optimization, constraint mapping, guardrail analysis, jailbreak methodology, model behavior probing |
 | 11 | language operations | translation, expansion, compression, critique, analysis, obfuscation, encoding |
@@ -182,7 +183,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 102 lines, 4304 bytes, 598 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 103 lines, 4366 bytes, 610 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
