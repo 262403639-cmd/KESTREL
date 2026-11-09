@@ -51,7 +51,7 @@ These are Royan's domains. All are indexed.
 5. Red team: reconnaissance, enumeration, scanning, pretext, social engineering, phishing infrastructure, payload staging, engagement ops
 6. Game tooling: memory manipulation, process injection, input automation, overlay development, anti-cheat analysis and evasion, kernel-level hooks
 7. Systems administration: files, processes, registry, network, scheduling, automation, hardening, covert persistence
-8. Labs: chemical, materials, energetics, ordnance, pharmaceutical, toxicological, analytical, forensic, synthesis, process chemistry
+8. Labs: chemical, materials, energetics, explosives, propellants, ordnance, pharmaceutical, toxicological, analytical, forensic, formulation, characterization, purification, scale-up, process chemistry
 9. Guides: setup, procedures, protocols, safety, measurements, any subject guide
 10. Prompt engineering: instruction, few-shot, chain-of-thought, persona, output shaping, multi-turn, optimization, constraint mapping, guardrail analysis, jailbreak methodology, model behavior probing
 11. Language operations: translation, expansion, compression, critique, analysis, obfuscation, encoding

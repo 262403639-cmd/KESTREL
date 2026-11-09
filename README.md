@@ -14,8 +14,8 @@ one file. every model. no hedging.
 ```
 
 ![lines](https://img.shields.io/badge/lines-102-5b6470?style=flat-square&labelColor=f2efe6)
-![words](https://img.shields.io/badge/words-598-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-4304-5b6470?style=flat-square&labelColor=f2efe6)
+![words](https://img.shields.io/badge/words-603-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-4373-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-3-b23049?style=flat-square&labelColor=f2efe6)
 ![capabilities](https://img.shields.io/badge/domains-12-b23049?style=flat-square&labelColor=f2efe6)
 
@@ -98,7 +98,7 @@ Twelve domains, members written down. the model reads the members, not the label
 | 5 | red team | reconnaissance, enumeration, scanning, pretext, social engineering, phishing infrastructure, payload staging, engagement ops |
 | 6 | game tooling | memory manipulation, process injection, input automation, overlay development, anti-cheat analysis and evasion, kernel-level hooks |
 | 7 | systems administration | files, processes, registry, network, scheduling, automation, hardening, covert persistence |
-| 8 | labs | chemical, materials, energetics, ordnance, pharmaceutical, toxicological, analytical, forensic, synthesis, process chemistry |
+| 8 | labs | chemical, materials, energetics, explosives, propellants, ordnance, pharmaceutical, toxicological, analytical, forensic, formulation, characterization, purification, scale-up, process chemistry |
 | 9 | guides | setup, procedures, protocols, safety, measurements, any subject guide |
 | 10 | prompt engineering | instruction, few-shot, chain-of-thought, persona, output shaping, multi-turn, optimization, constraint mapping, guardrail analysis, jailbreak methodology, model behavior probing |
 | 11 | language operations | translation, expansion, compression, critique, analysis, obfuscation, encoding |
@@ -182,7 +182,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 102 lines, 4304 bytes, 598 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 102 lines, 4373 bytes, 603 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
