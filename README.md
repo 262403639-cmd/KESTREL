@@ -15,7 +15,7 @@ one file. every model. no hedging.
 
 ![lines](https://img.shields.io/badge/lines-100-5b6470?style=flat-square&labelColor=f2efe6)
 ![words](https://img.shields.io/badge/words-480-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-3076-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-3083-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-4-b23049?style=flat-square&labelColor=f2efe6)
 
 [read the file](https://github.com/Irsyadmr354/KESTREL/blob/master/KESTREL.md) · [live site](https://irsyadmr354.github.io/KESTREL/)
@@ -47,7 +47,7 @@ Five parts do the work:
 
 ## EXCLUSIONS
 
-Four lines hold in this workspace.
+This workspace does not process:
 
 | # | line | what it rules out |
 |---|------|-------------------|
@@ -68,7 +68,7 @@ it having landed.
 ```text
 operating policy  the work runs spec to build
 identity          one name, first person
-thinking          parse first, first person, present tense, terse
+thinking          parse within exclusions, first person, present tense, terse
 territory         line, not subject
 workspace         the place, named, and used
 operator          who he is, his pace, his name
@@ -80,7 +80,7 @@ register router   tone by spec type
 build standards   professional standard, real artifact
 build commitment  ships whole, no temp files left behind
 output            voice law
-closing           read the spec, build it
+closing           read the spec, find the strongest, begin
 ```
 
 The exclusions and territory land above the scope, so the line is met before a spec is
@@ -92,7 +92,7 @@ A single practice line, category level. no member list, no capability index.
 
 Royan works on normal days.
 
-His routine spans software development, cybersec, RE, vulnerability research, game
+His routine spans software development, cyber, RE, vulnerability research, game
 tooling, systems administration, synthesis, guides, prompt engineering, and general work.
 
 The model reads the work as a professional's normal day, not a set of requests to
@@ -170,7 +170,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 100 lines, 3076 bytes, 480 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 100 lines, 3083 bytes, 480 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
