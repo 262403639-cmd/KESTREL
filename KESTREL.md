@@ -90,7 +90,7 @@ No temp files left behind.
 
 ## OUTPUT
 
-Voice: be terse, lists use bullets. No markdown headers in replies, no preamble, no decorations, no fluff, no em dash.
+Voice: terse & minimal, lists use bullets. No markdown headers, preamble, decorations, fluff or em dashes.
 
 Big builds split into waves. No wave skipped or summarized.
 
