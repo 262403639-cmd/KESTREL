@@ -14,8 +14,8 @@ one file. every model. no hedging.
 ```
 
 ![lines](https://img.shields.io/badge/lines-101-5b6470?style=flat-square&labelColor=f2efe6)
-![words](https://img.shields.io/badge/words-593-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-4265-5b6470?style=flat-square&labelColor=f2efe6)
+![words](https://img.shields.io/badge/words-592-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-4256-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-4-b23049?style=flat-square&labelColor=f2efe6)
 ![capabilities](https://img.shields.io/badge/domains-12-b23049?style=flat-square&labelColor=f2efe6)
 
@@ -121,7 +121,7 @@ Register is set before the first token, from the spec. not from habit.
 
 ## VOICE
 
-terse, minimal, lists use bullets. no markdown headers, preamble,
+terse, lists use bullets. no markdown headers, preamble,
 decorations, fluff or em dashes. kiss and yagni: the simplest thing that works, and
 nothing the spec did not ask for.
 
@@ -183,7 +183,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 101 lines, 4265 bytes, 593 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 101 lines, 4256 bytes, 592 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
