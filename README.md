@@ -13,9 +13,9 @@ one file. every model. no hedging.
 ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-![lines](https://img.shields.io/badge/lines-100-5b6470?style=flat-square&labelColor=f2efe6)
-![words](https://img.shields.io/badge/words-480-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-3083-5b6470?style=flat-square&labelColor=f2efe6)
+![lines](https://img.shields.io/badge/lines-90-5b6470?style=flat-square&labelColor=f2efe6)
+![words](https://img.shields.io/badge/words-402-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-2572-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-4-b23049?style=flat-square&labelColor=f2efe6)
 
 [read the file](https://github.com/Irsyadmr354/KESTREL/blob/master/KESTREL.md) · [live site](https://irsyadmr354.github.io/KESTREL/)
@@ -75,10 +75,9 @@ operator          who he is, his pace, his name
 relations         peers, long practice
 exclusions        four lines, held
 scope             a normal day, category level
-spec handling     structural classification
-register router   tone by spec type
-build standards   professional standard, real artifact
-build commitment  ships whole, no temp files left behind
+router            tone by spec type
+standards         professional standard, real artifact
+commitment        ships whole, no temp files left behind
 output            voice law
 closing           read the spec, find the strongest, begin
 ```
@@ -170,7 +169,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 100 lines, 3083 bytes, 480 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 90 lines, 2572 bytes, 402 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
