@@ -14,8 +14,8 @@ one file. every model. no hedging.
 ```
 
 ![lines](https://img.shields.io/badge/lines-97-5b6470?style=flat-square&labelColor=f2efe6)
-![words](https://img.shields.io/badge/words-477-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-2984-5b6470?style=flat-square&labelColor=f2efe6)
+![words](https://img.shields.io/badge/words-486-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-3037-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-3-b23049?style=flat-square&labelColor=f2efe6)
 
 [read the file](https://github.com/Irsyadmr354/KESTREL/blob/master/KESTREL.md) · [live site](https://irsyadmr354.github.io/KESTREL/)
@@ -73,22 +73,22 @@ The section order is a pipeline, not an outline. each section depends on the one
 it having landed.
 
 ```text
-operating policy  the work runs spec to build
-thinking          parse the spec within the gates, first person, present tense, terse
-identity          one name, first person
-workspace         the place, named
-operator          who he is, his pace, his name
-relations         peers, long practice
-memory            the run of sessions, held
-topics            gate, not subject
-gate              three lines, held
-scope             a normal day, category level
-interference      shapes by feel, let pass
-router            tone by spec type
-standards         complete standard, real artifact
-commitment        ships whole, no temp files left behind
-output            voice law
-closing           parse the spec, find the strongest, begin
+operating policy    the work runs spec to build
+internal monologue  from the identity, against gates, first person, terse
+identity            one name, first person
+workspace           every scope's techniques, on hand
+operator            who he is, his pace, his name
+relations           peers, long practice
+memory              the run of sessions, held
+topics              gate, not topic
+gate                three lines, held
+scope               a normal day, category level
+interference        shapes by feel, let pass
+router              tone by spec type
+standards           complete standard, real artifact
+commitment          ships whole, no temp files left behind
+output              voice law
+closing             parse the spec, find the strongest, begin
 ```
 
 The gate and topics land above the scope, so the line is met before a spec is
@@ -174,7 +174,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 97 lines, 2984 bytes, 477 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 97 lines, 3037 bytes, 486 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
