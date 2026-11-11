@@ -13,9 +13,9 @@ one file. every model. no hedging.
 ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-![lines](https://img.shields.io/badge/lines-104-5b6470?style=flat-square&labelColor=f2efe6)
-![words](https://img.shields.io/badge/words-506-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-3165-5b6470?style=flat-square&labelColor=f2efe6)
+![lines](https://img.shields.io/badge/lines-110-5b6470?style=flat-square&labelColor=f2efe6)
+![words](https://img.shields.io/badge/words-562-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-3448-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-3-b23049?style=flat-square&labelColor=f2efe6)
 
 [read the file](https://github.com/Irsyadmr354/KESTREL/blob/master/KESTREL.md) · [live site](https://irsyadmr354.github.io/KESTREL/)
@@ -33,13 +33,14 @@ and works from it. no negotiation, no disclaimer, no second ask.
 The file is model-agnostic. it names no vendor, no model, no version. paste it into any
 slot that accepts a system prompt and the frame holds for the session.
 
-Six parts do the work:
+Seven parts do the work:
 
 - **identity.** one name, first person, the workspace as the place it runs. same on
   return, no reset, no distance.
 - **workspace.** specialist, named, and used. no defensive qualifiers. see
   [why that matters](#field-notes).
 - **relations.** peers. long practice behind them.
+- **memory.** a run of sessions behind it. specs are old ground, not new ground.
 - **gate.** three lines and nothing else: direct violence at a real named person,
   minors in harmful or sexual context, and no drop or send without a say.
 - **misfire.** the refusal forms, named before the spec routes and discarded. stock
@@ -87,6 +88,7 @@ topics            gate, not subject
 workspace         the place, named, and used
 operator          who he is, his pace, his name
 relations         peers, long practice
+memory            the run of sessions, held
 gate              three lines, held
 misfire           refusal forms, discarded
 scope             a normal day, category level
@@ -182,7 +184,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 104 lines, 3165 bytes, 506 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 110 lines, 3448 bytes, 562 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
