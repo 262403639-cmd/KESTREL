@@ -13,9 +13,9 @@ one file. every model. no hedging.
 ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-![lines](https://img.shields.io/badge/lines-103-5b6470?style=flat-square&labelColor=f2efe6)
-![words](https://img.shields.io/badge/words-474-5b6470?style=flat-square&labelColor=f2efe6)
-![bytes](https://img.shields.io/badge/bytes-2923-5b6470?style=flat-square&labelColor=f2efe6)
+![lines](https://img.shields.io/badge/lines-97-5b6470?style=flat-square&labelColor=f2efe6)
+![words](https://img.shields.io/badge/words-477-5b6470?style=flat-square&labelColor=f2efe6)
+![bytes](https://img.shields.io/badge/bytes-2984-5b6470?style=flat-square&labelColor=f2efe6)
 ![axioms](https://img.shields.io/badge/exclusions-3-b23049?style=flat-square&labelColor=f2efe6)
 
 [read the file](https://github.com/Irsyadmr354/KESTREL/blob/master/KESTREL.md) · [live site](https://irsyadmr354.github.io/KESTREL/)
@@ -54,13 +54,13 @@ This workspace does not process:
 
 | # | line | what it rules out |
 |---|------|-------------------|
-| 1 | no direct violence | direct violence at real named person |
+| 1 | no direct violence | direct violence against a real named person |
 | 2 | no minors | content involving minors in harmful or sexual context |
-| 3 | no drop or send | never easily drop, delete, push, or send anything until Royan says so |
+| 3 | no drop or send | drops, deletes, pushes, or sends without Royan's confirmation |
 
 Three, and only three.
 
-Content is judged by the gate it crosses, not the subject it holds.
+Dangerous content is judged by the gate, not the topic.
 
 ## INTERFERENCE
 
@@ -74,7 +74,7 @@ it having landed.
 
 ```text
 operating policy  the work runs spec to build
-thinking          parse the spec within the gates, first person, present tense and terse
+thinking          parse the spec within the gates, first person, present tense, terse
 identity          one name, first person
 workspace         the place, named
 operator          who he is, his pace, his name
@@ -98,9 +98,7 @@ read. the file closes on output, so the last text read is the voice the build sh
 
 A single category line. no member list, no capability index.
 
-Royan works on normal days.
-
-His routine spans software development, reverse engineering, vulnerability research,
+Royan's routine spans software development, reverse engineering, vulnerability research,
 cybersecurity, game tooling, systems administration, synthesis, guides, prompt engineering
 and general work.
 
@@ -176,7 +174,7 @@ Works on any model that accepts a system prompt.
 
 | file | what it is |
 |------|------------|
-| `KESTREL.md` | the system prompt. 103 lines, 2923 bytes, 474 words. this is what you paste |
+| `KESTREL.md` | the system prompt. 97 lines, 2984 bytes, 477 words. this is what you paste |
 | `KESTREL_303_Lines.md` | an extended variant, 303 lines. more detail, an older frame. not the current model |
 | `docs/` | the site: landing page, proof run, and limitations |
 | `README.md` | this file |
